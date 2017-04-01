@@ -1345,7 +1345,7 @@ sg30
 Vlent
 p386
 asg24
-I801
+I800
 sg21
 (lp387
 V4::(1996 reconstitution)
@@ -2408,7 +2408,7 @@ Nsbasg30
 Vlent
 p659
 asg24
-I1473
+I1475
 sg21
 (lp660
 V1
@@ -4058,7 +4058,7 @@ p1085
 aVA man (Thomas Edison's assistant) takes a pinch of snuff and sneezes. This is one of the earliest Thomas Edison films and was the first motion picture to be copyrighted in the United States.
 p1086
 asg24
-I1317
+I1318
 sg25
 (lp1087
 g1
@@ -5836,7 +5836,7 @@ Nsbasg30
 Vlent
 p1537
 asg24
-I158
+I159
 sg21
 (lp1538
 VPortugal:1
@@ -6674,7 +6674,7 @@ asg16
 VA group of people are standing in a straight line along the platform of a railway station, waiting for a train, which is seen coming at some distance. When the train stops at the platform, the line dissolves. The doors of the railway-cars open, and people on the platform help passengers to get off.
 p1768
 asg24
-I7177
+I7178
 sg26
 VL'arrivée d'un train à La Ciotat
 p1769
@@ -8884,7 +8884,7 @@ Nsbasg30
 Vlent
 p2349
 asg24
-I801
+I802
 sg21
 (lp2350
 V1
@@ -9833,7 +9833,7 @@ Nsbasg30
 Vlent
 p2577
 asg24
-I348
+I349
 sg21
 (lp2578
 V1
