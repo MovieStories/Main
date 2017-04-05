@@ -289,7 +289,7 @@ Nsbasg30
 Vlent
 p111
 asg24
-I1245
+I1247
 sg21
 (lp112
 V1
@@ -2408,7 +2408,7 @@ Nsbasg30
 Vlent
 p659
 asg24
-I1476
+I1478
 sg21
 (lp660
 V1
@@ -2806,7 +2806,7 @@ Nsg72
 sg74
 (dp761
 g19
-F5.8
+F5.7
 sg752
 (lp762
 g1
@@ -2936,7 +2936,7 @@ asg23
 VBlack and White
 p801
 asg24
-I68
+I69
 sg26
 VChinese Opium Den
 p802
@@ -3269,7 +3269,7 @@ Nsbasg30
 Vlent
 p887
 asg24
-I491
+I492
 sg21
 (lp888
 VUSA:1::(.08 30fps)
@@ -4058,7 +4058,7 @@ p1085
 aVA man (Thomas Edison's assistant) takes a pinch of snuff and sneezes. This is one of the earliest Thomas Edison films and was the first motion picture to be copyrighted in the United States.
 p1086
 asg24
-I1319
+I1321
 sg25
 (lp1087
 g1
@@ -5414,7 +5414,7 @@ Nsbasg30
 Vlent
 p1429
 asg24
-I4462
+I4465
 sg21
 (lp1430
 V1
@@ -6674,7 +6674,7 @@ asg16
 VA group of people are standing in a straight line along the platform of a railway station, waiting for a train, which is seen coming at some distance. When the train stops at the platform, the line dissolves. The doors of the railway-cars open, and people on the platform help passengers to get off.
 p1768
 asg24
-I7184
+I7192
 sg26
 VL'arrivée d'un train à La Ciotat
 p1769
@@ -7797,7 +7797,7 @@ Nsbasg30
 Vlent
 p2064
 asg24
-I3183
+I3186
 sg21
 (lp2065
 V1
@@ -8417,7 +8417,7 @@ sg30
 Vlent
 p2226
 asg24
-I535
+I536
 sg21
 (lp2227
 V2
@@ -8884,7 +8884,7 @@ Nsbasg30
 Vlent
 p2349
 asg24
-I802
+I804
 sg21
 (lp2350
 V1
@@ -9833,7 +9833,7 @@ Nsbasg30
 Vlent
 p2577
 asg24
-I350
+I349
 sg21
 (lp2578
 V1
